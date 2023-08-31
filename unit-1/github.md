@@ -16,6 +16,11 @@ git pull
 
 ## 3. push changes
 
+git add: añadir archivos a subir
+```
+git add *
+```
+
 git commit: para subir al repositorio local
 
 ```
@@ -25,5 +30,5 @@ git commit -m "update github notebook"
 push: para clonar los cambios al repositorio remoto
 
 ```
-git push: *
+git push
 ```
