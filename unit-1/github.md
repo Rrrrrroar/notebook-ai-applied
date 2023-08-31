@@ -2,6 +2,8 @@
 
 ## 1. Clone repository
 
+git clone: copiar del remoto al local
+
 ```
 git clone https://github.com/Rrrrrroar/notebook-ai-applied.git
 ```
